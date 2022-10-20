@@ -3,7 +3,7 @@ synergy to noita-together
 
 #導入方法
 
-[こちらのReleases](https://github.com/takesantrap/Specific-place-alwayscastwand-capacity-1-MOD/releases/tag/20221015_ver1.0)ページに行きます。
+[こちらのReleases](https://github.com/takesantrap/Specific_place_alwayscastwand_capacity-1-MOD/releases/tag/20221020_ver1.1)ページに行きます。
 
 *Assets* の　*Source code(zip)* をクリック
 
